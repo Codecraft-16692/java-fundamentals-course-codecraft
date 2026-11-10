@@ -60,7 +60,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 
 ---
 
-### Lección 5: Fundamentos de POO y Programas Sencillos (5 minutos)
+### Lección 5: Fundamentos de POO y Programas Sencillos (7 minutos)
 
 - **Descripción:** Construye clases con atributos y métodos, y crea un programa POO básico.
 - **Enlace:** [Ver la lección](https://youtu.be/fjKtezC6ASo)
