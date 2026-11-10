@@ -42,7 +42,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 ### Lección 3: Estructuras de Control: Decisiones y Bucles (7 minutos)
 
 - **Descripción:** Toma decisiones con `if-else` y repite tareas con bucles.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/1kDtQQrSQ2U)
 - **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
 - **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡No es necesario registrarse! Inicio inmediato.
 
@@ -51,7 +51,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (19 minutos)
 
 - **Descripción:** Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases y objetos.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/8M6CX3v4gC8)
 - **Conclusiones clave:**
   * `public static void atacar() {}`
   * Uso de `Scanner`
@@ -63,7 +63,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 ### Lección 5: Fundamentos de POO y Programas Sencillos (5 minutos)
 
 - **Descripción:** Construye clases con atributos y métodos, y crea un programa POO básico.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/fjKtezC6ASo)
 - **Conclusiones clave:** Encapsulación con getters; construcción de un simulador de mascotas.
 - **Proyecto final:** [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
