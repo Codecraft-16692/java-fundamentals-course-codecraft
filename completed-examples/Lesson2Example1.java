@@ -1,11 +1,10 @@
 public class MiPrograma {
     public static void main(String[] args) {
 
-        // Variables: cajitas con nombre que guardan datos
-        String nombre = "Lucía";      // texto
-        int edad = 14;                // número entero
-        double estatura = 1.58;       // número con decimales
-        boolean juegaFutbol = true;   // verdadero o falso
+        String nombre = "Lucía";
+        int edad = 14;
+        double estatura = 1.58;
+        boolean juegaFutbol = true;
 
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad + " años");
