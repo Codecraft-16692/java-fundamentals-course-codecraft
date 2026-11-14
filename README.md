@@ -74,6 +74,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 - **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace:** [Ver la lección](https://youtu.be/tl08JPcS49k)
 - **Consejos clave:** Depurar errores, explorar la documentación oficial de Oracle Java.
+- **Práctica:** [Clic para programar](https://www.jdoodle.com/ia/zhse-jyzw-rk9j) 👈 **¡No es necesario registrarse!**
 - **Compartir tu trabajo:** [Enviar creación]()
 
 **¡Guarda y comparte!**
@@ -95,6 +96,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 | 3                 | Bucles           | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 | 4                 | Métodos y Clases | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 | 5                 | Programa POO     | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 6                 | Caza de errores  | [JDoodle](https://www.jdoodle.com/ia/zhse-jyzw-rk9j)  |
 
 ### Cuestionario
 
