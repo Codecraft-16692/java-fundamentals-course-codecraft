@@ -33,7 +33,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 ### Lección 2: Variables y Tipos de Datos (8 minutos)
 
 - **Descripción:** Aprende a almacenar datos en Java usando variables.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/K690FRmZyUA)
 - **Conclusiones clave:** Usa `int`, `String`; declara como `int age = 15;`
 - **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 
