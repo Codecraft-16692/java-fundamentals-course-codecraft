@@ -24,7 +24,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 
 - **Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/OC9tqWJgxXk)
 - **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
 - **Empieza a programar:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡No es necesario registrarse!
 
