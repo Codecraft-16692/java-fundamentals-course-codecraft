@@ -98,7 +98,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 
 ### Cuestionario
 
-- [Prueba de conocimientos]()
+- [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfqWLjfoMHrx-nMhvTdG8VwDorqWTc6cjYZJciCmuRnRiHiOQ/viewform)
 
 ### Compartir
 
@@ -128,7 +128,6 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 
 **Integrantes del equipo:**  
 - Castillo Yataco, Mauricio Sebastian (U202113229)
-- Heredia Hoyos, Danitza Ivonne (U201910803)
 - Ochoa Prado, Enrique Augusto (U202411222)
 
-**Fecha de entrega:** []
+**Fecha de entrega:** [14 de Noviembre de 2026]
