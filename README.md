@@ -35,7 +35,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 - **Descripción:** Aprende a almacenar datos en Java usando variables.
 - **Enlace:** [Ver la lección](https://youtu.be/K690FRmZyUA)
 - **Conclusiones clave:** Usa `int`, `String`; declara como `int age = 15;`
-- **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
+- **Práctica:** [Clic para programar](https://www.jdoodle.com/ia/sucw-h3ab-4kg8) 👈 **¡No es necesario registrarse!**
 
 ---
 
@@ -91,7 +91,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 | Número de lección | Actividad        | Empezar a programar                                      |
 | ----------------- | ---------------- | -------------------------------------------------------- |
 | 1                 | Hola Mundo       | [JDoodle](https://www.jdoodle.com/ia/yj98-fr5b-tbsf)  |
-| 2                 | Variables        | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 2                 | Variables        | [JDoodle](https://www.jdoodle.com/ia/sucw-h3ab-4kg8)  |
 | 3                 | Bucles           | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 | 4                 | Métodos y Clases | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 | 5                 | Programa POO     | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
