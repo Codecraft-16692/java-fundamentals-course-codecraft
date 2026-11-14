@@ -72,7 +72,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 ### Lección 6: Consejos y Próximos Pasos (8 minutos)
 
 - **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/tl08JPcS49k)
 - **Consejos clave:** Depurar errores, explorar la documentación oficial de Oracle Java.
 - **Compartir tu trabajo:** [Enviar creación]()
 
