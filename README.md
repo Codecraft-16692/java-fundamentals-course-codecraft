@@ -26,7 +26,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 - **Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Enlace:** [Ver la lección](https://youtu.be/OC9tqWJgxXk)
 - **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡No es necesario registrarse!
+- **Empieza a programar:** [Clic para programar](https://www.jdoodle.com/ia/yj98-fr5b-tbsf) 👈 ¡No es necesario registrarse!
 
 ---
 
@@ -90,7 +90,7 @@ https://github.com/Codecraft-16692/java-fundamentals-course-codecraft
 
 | Número de lección | Actividad        | Empezar a programar                                      |
 | ----------------- | ---------------- | -------------------------------------------------------- |
-| 1                 | Hola Mundo       | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 1                 | Hola Mundo       | [JDoodle](https://www.jdoodle.com/ia/yj98-fr5b-tbsf)  |
 | 2                 | Variables        | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 | 3                 | Bucles           | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 | 4                 | Métodos y Clases | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
